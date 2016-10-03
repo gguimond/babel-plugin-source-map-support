@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/gguimond/babel-plugin-source-map-support/issues"
   },
-  "homepage": "https://github.com/gguimond/babel-plugin-source-map-support#readme"
+  "homepage": "https://github.com/gguimond/babel-plugin-source-map-support#readme",
+  "devDependencies": {
+    "babel-core": "^6.17.0",
+    "tape": "^4.6.2"
+  }
 }
