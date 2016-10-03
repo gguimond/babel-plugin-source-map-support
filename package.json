@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin-node-source-map-support",
+  "version": "0.0.1",
+  "description": "add a header to automatically require node-source-map-support to the start of the transpiled code",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gguimond/babel-plugin-source-map-support.git"
+  },
+  "keywords": [
+    "babel",
+    "plugin",
+    "node-source-map-support"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gguimond/babel-plugin-source-map-support/issues"
+  },
+  "homepage": "https://github.com/gguimond/babel-plugin-source-map-support#readme"
+}
